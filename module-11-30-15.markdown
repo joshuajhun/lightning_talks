@@ -62,7 +62,7 @@
 * Hector Huertas Baeza - [Why bundler exists and how does it works?](https://gist.github.com/hectorhuertas/6dd37217ddc1ae977a8c)
 
 ##### Electives and Student-Led Sessions
-
+* Ryan Johnson & Jhun de Andres - Inner-city/Inner-city youth & Programming.
 * Matt Hecker
 
 ### **Week of 1/11**
